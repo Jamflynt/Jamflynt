@@ -1,7 +1,11 @@
 ### Hi there 👋  My name is Jamie Flynt (he/they)
 
 
-I applied and was selected for enrollment in Commonwealth Coders, a 16 week intensive web development training course in partnership with BC Skills Academy and the Workforce Board of Northern Kentucky. I am currently still enrolled learning everything I can. I am learning: HTML5, CSS3, JavaScript, SASS, Bootstrap, React, Axios, Node.js, Express, and MongoDB. Outside of class I am teaching myself Git, WordPress, Advanced JavaScript and CSS/SASS, and cPanel. Graduation is December 2021. 
+A recent graduate of the Commonwealth Coders program in Kentucky, USA, I am skilled at HTML5, CSS3, and JavaScript. I am currently teaching myself Git, WordPress, Advanced JavaScript, CSS/SASS, UI/UX principles, and Python. I never want to stop learning and understanding as much as I can. 
+
+I am currently open to freelance oppertunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable carrer where I can make a difference. 
+
+Contact me on LinkedIn, filling out the form on my portfolio site, or via email. 
 
 [![Linkedin: Jamflynt](https://img.shields.io/badge/-Jamie_Flynt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamie-flynt88/)](https://www.linkedin.com/in/jamie-flynt88/)
 
