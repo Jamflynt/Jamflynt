@@ -3,7 +3,7 @@
 
 A recent graduate of the Commonwealth Coders program in Kentucky, USA, I am skilled at Git, HTML5, CSS3, JavaScript and Responsive Web Design. I am currently teaching myself WordPress, Advanced JavaScript, CSS/SASS, UI/UX principles, and Python. I never want to stop learning and understanding as much as I can. 
 
-I am currently open to freelance oppertunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable carrer where I can make a difference. 
+I am currently open to freelance opportunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable carrer where I can make a difference. 
 
 Contact me on LinkedIn, filling out the form on my portfolio site which you can find below, or via email. 
 
