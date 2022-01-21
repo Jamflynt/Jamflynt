@@ -5,7 +5,7 @@ As of December 2021 I am a graduate of the Commonwealth Coders program in Kentuc
 
 I am now also employed with the Commonwealth Coders program as a Front End Development Support Instructor as of January 2022! I am very excited to contribute back to the program that allowed me to make a major carreer change. 
 
-I am currently open to freelance opportunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable career where I can make a difference. 
+I am currently open to opportunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable career where I can make a difference. 
 
 Contact me on LinkedIn, filling out the form on my portfolio site which you can find below, or via email. 
 
