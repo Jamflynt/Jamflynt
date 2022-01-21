@@ -1,7 +1,7 @@
 ### Hi there 👋  My name is Jamie Flynt (he/they)
 
 
-A recent graduate of the Commonwealth Coders program in Kentucky, USA, I am skilled at Git, HTML5, CSS3, JavaScript and Responsive Web Design. I am currently teaching myself WordPress, Advanced JavaScript, Advanced CSS/SASS, UI/UX principles, and Python. I never want to stop learning and understanding as much as I can.
+As of December 2021 I am a graduate of the Commonwealth Coders program in Kentucky, USA, where I became skilled at Git, HTML5, CSS3, JavaScript and Responsive Web Design. I am currently teaching myself WordPress, Advanced JavaScript, Advanced CSS/SASS, UI/UX principles, and Python. I never want to stop learning and understanding as much as I can.
 
 I am now also employed with the Commonwealth Coders program as a Front End Development Support Instructor as of January 2022! I am very excited to contribute back to the program that allowed me to make a major carreer change. 
 
