@@ -1,7 +1,7 @@
 ### Hi there 👋  My name is Jamie Flynt (he/they)
 
 
-I am skilled at HTML, CSS, JavaScript, Python, Git Version Control and Responsive Web Design. I am teaching myself WordPress, Flask, Django, as well as UI/UX principles.
+I am skilled at HTML, CSS, JavaScript, Python, Flask, Git Version Control, and Responsive Web Design.
 
 I am employed with the Commonwealth Coders program in Kentucky, USA as a Web Development/Programming Instructor as of January 2022. I currently teach the Git/GitHub and Python sections of the course, as well as writing all the lessons and materials for those subjects. 
 
