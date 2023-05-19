@@ -3,9 +3,11 @@
 
 I am skilled at HTML, CSS, JavaScript, Python, Flask, Git Version Control, and Responsive Web Design.
 
-I am employed with the Commonwealth Coders program in Kentucky, USA as a Web Development/Programming Instructor as of January 2022. I currently am the Lead Instructor for the program and wrote the entirety of the Python portion of the curriculum. 
+I am employed with the ROAD iD, Inc in Kentucky, USA as a Web Development/Software Engineer as of May 2023. I currently am working with Shopify to develope/customize Themes and Apps.
 
-I am currently open to opportunities and looking to build my portfolio. My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable career where I can make a difference.  
+I am not currently taking Web Development side projects at this time. 
+
+My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable career where I can make a difference.  
 
 Contact me on LinkedIn, filling out the form on my portfolio site which you can find below, or via email. 
 
