@@ -1,9 +1,9 @@
 ### Hi there 👋  My name is Jamie Flynt (he/they)
 
 
-I am skilled at HTML, CSS, JavaScript, Python, Flask, Git Version Control, and Responsive Web Design.
+I am skilled at CSS, JavaScript, Python, React, Git Version Control, and Responsive Web Design.
 
-I am employed with the ROAD iD, Inc in Kentucky, USA as a Web Development/Software Engineer as of May 2023. I currently am working with Shopify to develope/customize Themes and Apps.
+I am employed with the ROAD iD, Inc in Kentucky, USA as a Software Engineer as of May 2023. I currently am working with Shopify to develop/customize Themes and Apps.
 
 I am not currently taking Web Development side projects at this time. 
 
