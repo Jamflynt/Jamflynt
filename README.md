@@ -3,7 +3,7 @@
 
 I am skilled at CSS, JavaScript, Python, React, Git Version Control, and Responsive Web Design.
 
-I am employed with the ROAD iD, Inc in Covington, Kentucky, USA as a Software Engineer as of May 2023. I currently am working with Shopify to develop/customize Themes and Apps as well as anything else that is thrown at me.
+I am employed with the ROAD iD, Inc in Covington, Kentucky, USA as a Software Engineer as of May 2023. I currently am working with Shopify to develop/customize Themes and Apps, .NET and Azure Static Web Apps, GraphQL, as well as anything else that is thrown at me.
 
 I am not currently taking Web Development side projects at this time. 
 
