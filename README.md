@@ -1,4 +1,4 @@
-### Hi there 👋  My name is Jamie Flynt (he/they)
+### Jamie Flynt - Software Developer
 
 
 I am skilled at CSS, JavaScript, Python, React, Git Version Control, and Responsive Web Design.
