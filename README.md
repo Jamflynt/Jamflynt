@@ -1,4 +1,4 @@
-### Jamie Flynt - Software Developer
+### Jamie Flynt - Software Engineer
 
 
 I am skilled at CSS, JavaScript, Python, React, Git Version Control, and Responsive Web Design.
