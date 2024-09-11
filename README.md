@@ -1,13 +1,13 @@
 ### Jamie Flynt - Software Engineer
 
 
-I am skilled at CSS, JavaScript, Python, React, Git Version Control, and Responsive Web Design.
+I am skilled at JavaScript, Python, React, .NET, MudBlazor, and Shopify Theme and App Development.
 
-I am employed with the ROAD iD, Inc in Covington, Kentucky, USA as a Software Engineer as of May 2023. I currently am working with Shopify to develop/customize Themes and Apps, .NET and Azure Static Web Apps, GraphQL, as well as anything else that is thrown at me.
+I am employed with the ROAD iD, Inc in Covington, Kentucky, USA as a Software Engineer. Currently, I am working in Shopify to develop/customize Themes and Apps, .NET, MudBlazor and Azure Static Web Apps, as well as anything else that is thrown our way. This also includes programming Vision Software and laser engravers.
 
-I am not currently taking Web Development side projects at this time. 
+I am not currently taking Web Development projects at this time. 
 
-My goal is to combine both UI/UX and design principles with a strong foundation in programming into a profitable career where I can make a difference.  
+My goal is to leverage a strong foundation in backend development, with a focus on efficiency, scalability, and security, to build robust systems that drive impactful results while integrating design principles to support seamless user experiences.
 
 Contact me on LinkedIn or via email. 
 
