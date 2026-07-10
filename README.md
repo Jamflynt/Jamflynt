@@ -1,4 +1,4 @@
-### Jamie Flynt - Software Engineer
+### Jamie Flynt - Senior Software Engineer
 
 
 I am skilled at JavaScript, Python, .NET, React, MudBlazor, Azure, and Shopify Theme and App Development.
